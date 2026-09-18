@@ -1,24 +1,24 @@
-\# LeetCode Progress Tracker
+\# Progress Tracker
 
 
 
-| Date | Problem | Topic | Difficulty | Status | Time Taken |
+| # | Problem | Difficulty | Status | Time Taken |
 
-|---|---|---|---|---|---|
+|---|---------|------------|--------|------------|
 
-| 17/09/2026 | Two Sum | Arrays \& Strings | Easy | ⬜ Planned | - |
+| 1 | Two Sum | Easy | ✅ Solved | - |
 
-| 17/09/2026 | Reverse a String | Arrays \& Strings | Easy | ⬜ Planned | - |
+| 2 | Reverse a String | Easy | ✅ Solved | - |
 
-| 17/09/2026 | Valid Anagram | Arrays \& Strings | Easy | ⬜ Planned | - |
+| 3 | Valid Anagram | Easy | ✅ Solved | - |
 
-| 17/09/2026 | Best Time to Buy and Sell Stock | Arrays \& Strings | Easy–Medium | ⬜ Planned | - |
+| 4 | Best Time to Buy and Sell Stock | Easy | ✅ Solved | - |
 
-| 17/09/2026 | Longest Common Prefix | Arrays \& Strings | Easy–Medium | ⬜ Planned | - |
+| 5 | Longest Common Prefix | Easy | ✅ Solved | - |
 
-| 17/09/2026 | Binary Search | Basic Algorithms | Easy–Medium | ⬜ Planned | - |
+| 6 | Binary Search | Easy | ✅ Solved | - |
 
-| 17/09/2026 | Move Zeroes | Basic Algorithms | Easy–Medium | ⬜ Planned | - |
+| 7 | Move Zeroes | Easy | ✅ Solved | - |
 
-| 17/09/2026 | Valid Parentheses | Stacks | Easy–Medium | ⬜ Planned | - |
+| 8 | Valid Parentheses | Easy | ✅ Solved | - |
 
